@@ -148,7 +148,7 @@ AUC-ROC	0.96
 📌 How to Use This Repository
 🔹 Cloning the Repository
 
-git clone https://github.com/IbraheemMustafa7/MetawithAI.git
+git clone https://github.com/IbraheemMustafa7/MetagenomicswithAI.git
 cd MetawithAI
 
 or have a look at 
